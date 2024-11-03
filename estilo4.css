@@ -25,8 +25,14 @@ section {
 }
 
 
-h1, h2, h3 {
-    color: #ffffff; 
+
+h1{
+    color: #fff; 
+}
+
+
+h2, h3 {
+    color: #555; 
 }
 
 
